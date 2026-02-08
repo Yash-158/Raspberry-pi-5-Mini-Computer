@@ -1,6 +1,6 @@
 # The Omni-Terminal: Pi 5 Desktop Hub
 
-![The Omni-Terminal](Images\p1.jpg)
+![The Omni-Terminal](Images/p1.jpg)
 
 
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -101,8 +101,8 @@ Admire the build from every angle.
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| ![Profile View](Images\p1.jpg) | ![Port Access](Images\p2.jpg) | ![Top Down](Images\p3.jpg) |
-| ![Screen Detail](Images\p4.jpg) | ![Cooling Vent](Images\p5.jpg) | ![Desktop Setup](Images\p6.jpg) |
+| ![Profile View](Images/p1.jpg) | ![Port Access](Images/p2.jpg) | ![Top Down](Images/p3.jpg) |
+| ![Screen Detail](Images/p4.jpg) | ![Cooling Vent](Images/p5.jpg) | ![Desktop Setup](Images/p6.jpg) |
 
 ---
 
