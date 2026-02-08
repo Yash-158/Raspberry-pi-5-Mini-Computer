@@ -68,28 +68,7 @@ Everything you need to build your own Omni-Terminal:
 
 ---
 
-## ⚙️ Software & Setup
 
-The Omni-Terminal runs on **Raspberry Pi OS**, customized for a touch-first experience.
-
-### Quick Start
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/yourusername/omni-terminal.git
-    cd omni-terminal
-    ```
-
-2.  **Install Dependencies:**
-    Run the setup script to install necessary Python libraries and UI frameworks.
-    ```bash
-    ./setup.sh
-    ```
-
-3.  **Launch the Dashboard:**
-    ```bash
-    python3 main.py
-    ```
 
 *(Detailed installation guide coming soon in the Wiki)*
 
